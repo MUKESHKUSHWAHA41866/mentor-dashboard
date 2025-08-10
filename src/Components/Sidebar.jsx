@@ -7,7 +7,7 @@ const Sidebar = () => {
         <h3 className="font-bold mb-2">Category</h3>
         <select className="border w-full p-2 rounded">
           <option>Select</option>
-          {/* Add more options */}
+          
         </select>
       </div>
       <div className="mb-6">
